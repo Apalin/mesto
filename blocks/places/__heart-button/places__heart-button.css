@@ -1,0 +1,11 @@
+.places__heart-button {
+  background-image: url(../../../images/heart.svg);
+  width: 22px;
+  height: 19px;
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+  background-position: center;
+  align-self: flex-end;
+  cursor: pointer;
+  padding: 15px;
+}
