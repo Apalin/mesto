@@ -13,8 +13,10 @@
 {
   .profile__description{
     text-align: center;
-    margin: 14px 0 0;
+    margin: 14px auto 0;
     font-size: 14px;
     line-height: 17px;
+    max-width: 300px;
   }
 }
+

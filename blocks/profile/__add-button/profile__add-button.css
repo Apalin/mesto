@@ -8,6 +8,7 @@ box-sizing: border-box;
 align-self: center;
 margin-left: auto;
 cursor: pointer;
+border-radius: 2px;
 }
 
 .profile__add-button:hover {
