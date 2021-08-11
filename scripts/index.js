@@ -6,8 +6,8 @@ const closeButton = document.querySelector(".popup__close");
 const popup = document.querySelector(".popup");
 
 let formElement = document.querySelector(".popup__container")
-let nameInput = formElement.querySelector(".popup__input-name")
-let jobInput = formElement.querySelector(".popup__input-work")
+let nameInput = formElement.querySelector(".popup__input_name")
+let jobInput = formElement.querySelector(".popup__input_work")
 
 
 function togglePopup () {
